@@ -64,6 +64,7 @@ class TPQueue {
     return out;
   }
 
+
   bool empty() const {
     return front == nullptr;
   }
